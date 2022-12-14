@@ -1,0 +1,33 @@
+* {
+    font-family: 'Montserrat', sans-serif;
+    color: {{fontColor}};
+    font-size: 25px;
+    overflow: hidden;
+    font-weight: 800;
+}
+.main-container {
+  	background:rgba(255,255,255,0.1); 
+  	padding: 15px;
+}
+h1 {
+  	margin-top:0;
+  	margin-bottom:10px;
+}
+table {
+  	width:100%;
+  column-gap:0;
+}
+thead {
+ 	text-align:left; 
+}
+
+thead th:nth-child(1) {
+	width:30px;
+}
+
+td,th {
+ margin:0; 
+  padding:0;
+  border-spacing:0;
+  border:0;
+}
