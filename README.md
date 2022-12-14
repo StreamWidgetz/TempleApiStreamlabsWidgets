@@ -1,4 +1,4 @@
-# Competition Widget (teams) for Temple API
+# Competition Widgets for Temple API
 
 Open the folder of a widget to get detailed information on each of the widgets
 
